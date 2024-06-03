@@ -1,0 +1,17 @@
+.Add-Button {
+    margin-top: 25px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.Add-Button:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+    transition: all 0.6s;
+}
+
+.plus-minus-button:hover {
+    cursor: pointer;
+}
